@@ -41,3 +41,7 @@ Estudiante de 8.º ciclo de Ingeniería de Sistemas (décimo superior) enfocado 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+## Contáctame 📫
+- 📧 Correo: angelomontalvo508@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/angelo-montalvo-salinas](https://linkedin.com/in/angelo-montalvo-salinas)
+- 📍 Ubicación: Ventanilla, Callao, Perú
